@@ -1,0 +1,26 @@
+node_modules
+.next
+.env
+media
+dist
+coverage
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Database
+.pgdata
+*.db
+*.sqlite
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# LLM / Knowledge files
+llms-full.txt
+payload_schema.ts
+crm_credible_prd.md
+crm_credible_sprints.md
+crm_credible_implementation_checklist.md
