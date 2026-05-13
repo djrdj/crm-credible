@@ -17,10 +17,3 @@ pnpm-debug.log*
 # OS files
 .DS_Store
 Thumbs.db
-
-# LLM / Knowledge files
-llms-full.txt
-payload_schema.ts
-crm_credible_prd.md
-crm_credible_sprints.md
-crm_credible_implementation_checklist.md
